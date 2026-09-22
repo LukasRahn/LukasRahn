@@ -2,8 +2,9 @@
 <p align="center"><em>just coding</em></p>
 
 <p align="center">
-  Building developer tools, Windows utilities, and homelab things —<br>
-  mostly in <strong>TypeScript</strong> &amp; <strong>JavaScript</strong>, with some <strong>C#</strong> and <strong>Python</strong>.
+  I build developer tools — lately a lot around AI coding workflows and Claude Code —<br>
+  plus desktop utilities, homelab dashboards, and whatever else scratches an itch.<br>
+  Mostly <strong>TypeScript</strong>, with <strong>JavaScript</strong> and <strong>Python</strong> where they fit.
 </p>
 
 <p align="center">
@@ -19,8 +20,15 @@
 
 ### 🔭 Featured projects
 
-- **[claude-pulse](https://github.com/Lukas200512/claude-pulse)** — See what Claude is doing at a glance
-- **[Streamdeck-Plugin](https://github.com/Lukas200512/Streamdeck-Plugin)** — Stream Deck plugin: multi-key shutdown / restart / sleep with countdown
+- **[TradeRepublicApi](https://github.com/LukasRahn/TradeRepublicApi)** — Unofficial Python client for Trade Republic: login, portfolio, live quotes, orders and a Portfolio Performance export
+- **[claude-pulse](https://github.com/LukasRahn/claude-pulse)** — See what Claude is doing at a glance
+- **[Streamdeck-Plugin](https://github.com/LukasRahn/Streamdeck-Plugin)** — Stream Deck plugin: multi-key shutdown / restart / sleep with countdown
+
+### 🛠️ Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,nodejs,astro,html,css,docker,linux" alt="TypeScript, JavaScript, Python, C#, Node.js, Astro, HTML, CSS, Docker, Linux">
+</p>
 
 <hr>
 
@@ -31,5 +39,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lukas200512&theme=transparent&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=LukasRahn&theme=transparent&hide_border=true" alt="GitHub streak">
 </p>

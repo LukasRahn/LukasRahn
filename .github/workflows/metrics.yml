@@ -19,7 +19,7 @@ jobs:
           user: LukasRahn
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Europe/Berlin
 
           # Top languages (includes private repos via the token)
@@ -27,7 +27,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
-          # Habits / activity heatmap (reliable, replaces the flaky achievements plugin)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
+          # Contribution calendar (habits plugin crashes on some events: "Cannot destructure property 'author'")
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
